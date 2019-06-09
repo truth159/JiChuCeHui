@@ -1,0 +1,8 @@
+C:\Users\zh\Desktop\Project.1\Project.1\bin\Debug\Project.1.exe
+C:\Users\zh\Desktop\Project.1\Project.1\bin\Debug\Project.1.pdb
+C:\Users\zh\Desktop\Project.1\Project.1\obj\x86\Debug\Project._1.Form1.resources
+C:\Users\zh\Desktop\Project.1\Project.1\obj\x86\Debug\Project._1.Properties.Resources.resources
+C:\Users\zh\Desktop\Project.1\Project.1\obj\x86\Debug\Project.1.csproj.GenerateResource.Cache
+C:\Users\zh\Desktop\Project.1\Project.1\obj\x86\Debug\Project.1.exe
+C:\Users\zh\Desktop\Project.1\Project.1\obj\x86\Debug\Project.1.pdb
+C:\Users\zh\Desktop\Project.1\Project.1\obj\x86\Debug\Project.1.csprojResolveAssemblyReference.cache
